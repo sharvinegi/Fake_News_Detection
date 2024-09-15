@@ -1,5 +1,3 @@
-
-```markdown
 # Fake News Detection using Flask and Machine Learning
 
 This project is a web application that uses a machine learning model to detect fake news. The project leverages a **PassiveAggressiveClassifier** to predict whether a news article is fake or real, based on its content. The application also provides accuracy metrics and displays a confusion matrix for model performance.
